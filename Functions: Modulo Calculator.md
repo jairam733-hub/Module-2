@@ -13,7 +13,18 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧾 Program
 
 Add code Here
+```
+
+
+# def result(a,b):
+#     print(a % b)
+
+# a=int(input())
+# b=int(input())
+# result(a,b)
+```
 
 ## Output
+<img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/d53170b1-4984-4053-805d-d2d7c4efbb3b" />
 
 ## Result
